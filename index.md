@@ -1,17 +1,20 @@
-<p><img src="https://cdn.kastatic.org/ka-perseus-images/f815c4beffa050dfb3cf19df328a7ceafdc992ba.svg" alt="A world map with icons of computers on top: a laptop in Brazil, a laptop in Russia, a server in Africa, a phone in Sydney, and a phone in NY. Arrows go between the computers." width="640" height="318" /></p>
-<h2><strong> <span style="color: #e67e23;">Introduction</span> </strong></h2>
-<p>The Internet is a global network of connected computing devices, you have seen this type of image before when we worked on "Pitching Packets". All of these devices are communicating with each other in some way, right now our devices are communicating in order to be able to see and work with each other.</p>
-<p>&nbsp;</p>
-<h2><strong>Key terms:</strong></h2>
-<ul>
-    <li><strong>Network</strong>: an interconnected or interrelated group or system.</li>
-    <li><strong>Node</strong>: devices that connect to the network (e.g. computers, laptops, cell phones, etc).</li>
-    <li><strong>Link</strong>: the physical medium that connects the nodes (e.g. coaxial cable, fiber optic, telephone line).</li>
-    <li><strong>Routing</strong>: the process of selecting paths in a network along which to send a message. (Wikipedia)</li>
-</ul>
-<p>&nbsp;</p>
-<h2><strong> <span style="color: #3598db;">The Internet is an open network...</span> </strong></h2>
-<div class="paragraph" data-perseus-paragraph-index="2">
+<!DOCTYPE html>
+<html>
+    <body>
+        <p><img src="https://cdn.kastatic.org/ka-perseus-images/f815c4beffa050dfb3cf19df328a7ceafdc992ba.svg" alt="A world map with icons of computers on top: a laptop in Brazil, a laptop in Russia, a server in Africa, a phone in Sydney, and a phone in NY. Arrows go between the computers." width="640" height="318" /></p>
+        <h2><strong> <span style="color: #e67e23;">Introduction</span> </strong></h2>
+        <p>The Internet is a global network of connected computing devices, you have seen this type of image before when we worked on "Pitching Packets". All of these devices are communicating with each other in some way, right now our devices are communicating in order to be able to see and work with each other.</p>
+        <p>&nbsp;</p>
+        <h2><strong>Key terms:</strong></h2>
+        <ul>
+            <li><strong>Network</strong>: an interconnected or interrelated group or system.</li>
+            <li><strong>Node</strong>: devices that connect to the network (e.g. computers, laptops, cell phones, etc).</li>
+            <li><strong>Link</strong>: the physical medium that connects the nodes (e.g. coaxial cable, fiber optic, telephone line).</li>
+            <li><strong>Routing</strong>: the process of selecting paths in a network along which to send a message. (Wikipedia)</li>
+        </ul>
+        <p>&nbsp;</p>
+        <h2><strong> <span style="color: #3598db;">The Internet is an open network...</span> </strong></h2>
+        <div class="paragraph" data-perseus-paragraph-index="2">
     <table style="border-collapse: collapse; width: 98.669%;" border="0">
         <tbody>
             <tr>
@@ -171,3 +174,5 @@
 <p>We will come back and watch the following video when we are done...</p>
 
 <iframe title="YouTube video player" src="https://www.youtube.com/embed/5o8CwafCxnU" width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+    </body>
+    </html>
